@@ -1,0 +1,1 @@
+This is my spring homework2 in my course that do about the posts project. It have several variable like author id title content create_at and tags.The controller use to psot get all get by id,author,title  one more have delete put .
